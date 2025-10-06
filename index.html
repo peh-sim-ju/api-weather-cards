@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>天氣卡</title>
+    <link rel="stylesheet" href="./css/weather-cards.css">
+</head>
+
+<body>
+    <input type="checkbox" name="" id="ham-switch" hidden>
+        <label for="ham-switch" class="ham-btn">
+            <div class="line line-1"></div>
+            <div class="line line-2"></div>
+            <div class="line line-3"></div>
+        </label>
+        
+    <div class="btn-area">
+        <button type="button" class="btn" data-region="全部">全部</button>
+        <button type="button" class="btn" data-region="北部">北部</button>
+        <button type="button" class="btn" data-region="中部">中部</button>
+        <button type="button" class="btn" data-region="南部">南部</button>
+        <button type="button" class="btn" data-region="東部">東部</button>
+        <button type="button" class="btn" data-region="離島">離島</button>
+    </div>
+    <hr>
+    <div class="card-region"></div>
+
+<script src="./js/weather-cards.js"></script>
+</body>
+
+</html>
