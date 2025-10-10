@@ -1,6 +1,6 @@
 # api-weather-cards
 
-這是一個使用台灣中央氣象署開放 API 製作的天氣卡片應用程式，旨在練習非同步資料串接與動態網頁生成。
+這是一個使用台灣中央氣象署開放 API 製作的天氣卡片。
 
 ## 線上預覽
 **[點擊這裡進行線上預覽](https://peh-sim-ju.github.io/api-weather-cards/)**
