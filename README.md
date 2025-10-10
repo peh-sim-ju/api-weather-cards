@@ -20,7 +20,7 @@
 ## 使用的技術
 * **前端**
     * `HTML5`
-    * `CSS3` (包含 Flexbox, Grid 佈局)
+    * `CSS3`
     * `JavaScript`
 * **外部資源**
     * 中央氣象署開放資料平台 API
